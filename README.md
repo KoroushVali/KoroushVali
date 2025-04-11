@@ -6,5 +6,6 @@ I am 14 years old and I like web and app development and I am looking forward to
 
 ## 🛠 Skills
 Html - Css - Javascript - Python - Wordpress
+
 Video editing - Thumbnail designing - Game designing
 
